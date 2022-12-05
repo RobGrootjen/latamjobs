@@ -54,7 +54,8 @@ Here are my current open positions for ALL LATAM! #hiring #latam
 
     QA Software Tester
     - $5-6k USD per month
-    - Jira, testing backend API's, QA experience, experience testing mobile iOS and Android and web browsers.
+    - Jira, testing backend API's, QA experience, experience testing mobile iOS 
+    and Android and web browsers.
     - B2-C1 English
     - Directly for the client in California
 
@@ -70,4 +71,5 @@ Here are my current open positions for ALL LATAM! #hiring #latam
     - B2-C1 English
     - Through agency
 
-    Please send your resume to robert@latamrecruit.com with the name of the position in the subject line, and I will give you more info about the client, contract, etc!
+    Please send your resume to robert@latamrecruit.com with the name of the position 
+    in the subject line, and I will give you more info about the client, contract, etc!
