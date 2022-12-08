@@ -5,7 +5,7 @@ My open current jobs:
 
 Here are my current open positions for ALL LATAM! #hiring #latam
   
-   *NEW POSITION
+   NEW POSITION
    Technical Support Specialist
     - $8-12 USD per hour 
     - C1 English 
