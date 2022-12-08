@@ -1,19 +1,13 @@
-# latamjobs
-Remote LATAM jobs with salaries.
-
-My open current jobs:
-
-Here are my current open positions for ALL LATAM! #hiring #latam
-  
-   NEW POSITION
-   Technical Support Specialist
+    ALL LATAM OPEN POSITIONS/CONTRACTS:
+ 
+    Technical Support Specialist
     - $8-12 USD per hour 
     - C1 English 
     - Troubleshooting networking-related issues.
     - Knowledge of configuring firewalls.
-    - Experience in setting up printers, scanners, and fax machines.
+    - Experience in setting up printers, scanners, and fax machines.  
     - Directly for the client from NY
-
+    
     Tech Lead
     - $6-8k USD per month 
     - B2-C1 English 
